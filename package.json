@@ -1,0 +1,19 @@
+{
+  "name": "mocaliza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cbuild/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyanocampos/mocaliza.git"
+  },
+  "author": "Willyan Ocampos M. Ferreira <willyan.ocampos2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willyanocampos/mocaliza/issues"
+  },
+  "homepage": "https://github.com/willyanocampos/mocaliza#readme"
+}
