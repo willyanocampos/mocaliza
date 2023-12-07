@@ -2,18 +2,43 @@
   "name": "mocaliza",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Cbuild/main.js",
   "scripts": {
+=======
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "nodemon",
+>>>>>>> develop
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/willyanocampos/mocaliza.git"
   },
+<<<<<<< HEAD
   "author": "Willyan Ocampos M. Ferreira <willyan.ocampos2@gmail.com>",
+=======
+  "author": "Willyan Ocampos <ra177047@ucdb.br>",
+>>>>>>> develop
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/willyanocampos/mocaliza/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/willyanocampos/mocaliza#readme"
+=======
+  "homepage": "https://github.com/willyanocampos/mocaliza#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "sequelize": "^6.35.1",
+    "sequelize-cli": "^6.6.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "nodemon": "^3.0.1"
+  }
+>>>>>>> develop
 }
